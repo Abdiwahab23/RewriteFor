@@ -28,13 +28,17 @@ RewriteFor provides a seamless, high-quality, and instant solution to all your t
 
 Here are some previews of the RewriteFor interface in action:
 
-### 1. Paste Your Content
+### 1. Intuitive Interface
+A clean and easy-to-use platform that makes rewriting effortless.
+![Interface Demo](assets/demo%20pic.png)
+
+### 2. Paste Your Content
 Easily input the text you want to rewrite and select your preferred customization options.
 ![Paste your content](assets/Paste%20your%20content.png)
 
-### 2. Output and Results
+### 3. Output and Results
 Instantly receive the rephrased content with improved tone and structure.
-![Demo Pic](assets/demo%20pic.png)
+![Instant Magic](assets/Instant%20Magic.png)
 
 ---
 
